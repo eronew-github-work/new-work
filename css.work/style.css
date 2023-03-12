@@ -36,6 +36,7 @@
     margin-top: 20px;
     margin-left: 10px;
     position: absolute;
+    
 }
 .text-category-card{
     text-align: center;
@@ -76,17 +77,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-right: 10px;
     padding: 5px;
 
 }
 
 .name-price .name {
-    font-size: 14px;
+    font-size: 16px;
     color: #23a6f0;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 10px;
+    font-weight: 700;
 
 }
 
@@ -126,28 +128,28 @@
     margin-left: 10px;
 }
 
-.h5-text-1{
+.text-h5-1{
     width: 52px;
     height: 24px;
     font-size: 16px;
-    color: #737373;
+    color: #bdbdbd;
     line-height: 24px;
     text-align: center;
     margin-left: 10px;
     margin-top: 40px;
+    font-weight: 700;
     
 
 }
 
-.h5-text-2{
-    width: 45px;
-    height: 24px;
+.text-h5-2{
+    
     color: #40bb15;
     font-size: 16px;
     line-height: 24px;
     margin-left: 1px;
     margin-top: 40px;
-    
+    font-weight: 700;
 }
 
 .card-vector-1{
@@ -163,7 +165,6 @@
 .icon-card-2{
     display: flex;
     justify-content:space-between;
-      align-items: center;
       margin: 20px;
       color: #737373;
 }
@@ -229,26 +230,28 @@ text-align: left;
 }
 
 .button-card{
-    width: 163px;
+    width: 160px;
     height: 50px;
     border-radius: 30px;
     border: 1px solid #23a6f0;
+    margin-left: 30px;
+    background: #fff;
+}
+
+.text-button{
+    width: 82px;
+    height: 24px;
+    color: #23a6f0;
+    margin-left: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.texts-h5{
+    margin-top: 10px;
     margin-left: 10px;
 }
-.text-button{
-    
-    height: 24px;
-    font-size: 14px;
-    color: #23a6f0;
-    line-height: 24px;
-    font-style: bold;
-}
-
-
-
-
-
-
-
 
 

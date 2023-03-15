@@ -37,6 +37,7 @@
     margin-left: 10px;
     position: absolute;
     
+    
 }
 .text-category-card{
     text-align: center;
@@ -73,11 +74,11 @@
     
 
 .name-price{
-    margin-top: 20px;
+    margin-top: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-right: 10px;
     padding: 5px;
 
@@ -100,10 +101,21 @@
 .title-card{
     width: 131px;
     height: 24px;
-    font-size: 20px;
+    font-size: 16px;
     color: #252b42;
     text-align: center;
     margin-left: 5px;
+    font-weight: 700;
+   
+    
+    
+    
+   
+    
+   
+     
+
+    
     
 }
 
@@ -115,17 +127,25 @@
     color: #737373;
     font-family: arial;
     line-height: 20px;
+    margin-left: 20px;
+    
+    
+    
     
     
 }
 
-.vector-text{
+.text-vector{
     height: 57px;
     width: 24px;
     color: #737373;
-    margin: 10px;
+    margin: 1px;
     font-size: 14px;
     margin-left: 10px;
+    font-weight: 700;
+
+
+
 }
 
 .text-h5-1{
@@ -152,13 +172,28 @@
     font-weight: 700;
 }
 
-.card-vector-1{
-    margin-left: 15px;
-    margin-top: 0px;
+.vector-card-1{
+    margin-left: 30px;
+    margin-top: 5px;
+    
+    
+    
+    
 }  
 
-.card-vector-2{
-    margin-left: 10px;
+.vector-card-2{
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    
+    
+    
+
+    
+    
+    
+    
+    
     
 }
 
@@ -197,6 +232,7 @@ text-align: left;
 
 
 
+
 }
 
 .colicion-img-2{
@@ -229,29 +265,38 @@ text-align: left;
     height: 14px;
 }
 
+   
+
+
+.texts-h5{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+
 .button-card{
     width: 160px;
     height: 50px;
-    border-radius: 30px;
-    border: 1px solid #23a6f0;
-    margin-left: 30px;
     background: #fff;
+    border: 1px solid #23a6f0;
+    border-radius: 30px;
+    margin-left: 10px;
+    
+    
 }
 
-.text-button{
-    width: 82px;
-    height: 24px;
+.text-btn{
     color: #23a6f0;
-    margin-left: 10px;
-    text-align: center;
     font-weight: 700;
-    font-size: 14px;
-    margin-top: 10px;
-}
-
-.texts-h5{
-    margin-top: 10px;
-    margin-left: 10px;
+    text-align: left;
+    margin-right: 10px;
 }
 
 
+
+.vector-img-1{
+    margin-left: 5px;
+    position: absolute;
+    margin-top: 10px;
+}
